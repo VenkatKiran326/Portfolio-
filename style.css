@@ -1,0 +1,112 @@
+
+.nav-bar img{
+   
+   height: 50px;
+}
+.nav-bar{
+    position: sticky;
+    top: 0;
+    color: aliceblue;
+    border: 2px solid rgb(60, 60, 60);
+    background-color: rgb(27, 27, 27);
+}
+.mass{
+ 
+    background: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+   
+}
+.nav-item{
+    color: aliceblue;
+}
+.nav-item:hover {
+    color: greenyellow;
+}
+.anchor{
+    margin-left: auto;
+}
+.text{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tp{
+    text-align: center;
+    font-style: italic;
+    padding: 20px;
+    margin: 20px;
+}
+.cardhome{
+    display: flex;
+    flex-wrap: wrap; /*controls over lap and make to come on nxt line*/
+    justify-content: space-around;
+    padding: 20px;
+    text-align: center;
+}
+.cardhome img{
+    height: 100px;
+    width: 290px;
+}
+/*        */
+.proj{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    text-align: center;
+}
+.proj img{
+    height: 100px;
+    width: 290px;
+}
+
+.h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.hpara{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 20px;
+    padding-bottom: 60px;
+}
+
+.lpara{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    width: 50vw;
+    letter-spacing: 2px;
+    padding-left: 200px;
+    text-align:center;
+}
+.rpara{
+    width: 50vw;
+    padding-right: 150px;
+    text-align: right;
+}
+
+.linkdin{
+    width: 400px;
+   padding-right: 100px;
+}
+
+.bottomhome{
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap; /*controls over lap and make to come on nxt line*/
+    justify-content: space-around;
+    padding: 20px;
+    text-align: center;
+}
+.bottom2 img{
+    width: 20px;
+}
+.box{
+    border: 2px solid rgba(2, 11, 60, 0.768);
+    color: rgb(17, 18, 18);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5px;
+    font-style: italic;
+}
